@@ -1,0 +1,34 @@
+body{
+background-color:skyblue;
+}
+
+h1 {
+  color: fuchsia;
+}
+
+
+div {
+  position:absolute;
+  text-align:center;
+  display:block;
+  right:190px;
+  
+
+}
+
+
+
+.rightside{
+  opacity:0;
+
+}
+
+.rightside:active{
+  opacity:1;
+
+}
+
+.leftside{
+  opacity:0;
+
+}
